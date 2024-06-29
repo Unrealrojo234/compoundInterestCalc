@@ -25,11 +25,11 @@ body{
     
     
 }
-@media (min-width:481px) and (max-width:1024px){
+@media (min-width:481px){
     .section{
-        width: 50%;
+        width: 40%;
         position: relative;
-        left: 50%;
+        left: 60%;
     }
 }
 
